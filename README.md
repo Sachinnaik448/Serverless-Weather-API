@@ -41,14 +41,6 @@ SimpleWeatherApp?city=Bengaluru
 
 ---
 
-## 📹 Project Deployment Video  
-▶️ [Click here to watch/download the demo](#)  
-
----
-
-## 📄 Project Report  
-You can view or download the complete project report here:  
-👉 **Serverless_Weather_API_Report.pdf**
 
 ---
 
